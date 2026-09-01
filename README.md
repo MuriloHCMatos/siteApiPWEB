@@ -24,7 +24,7 @@ Antes de iniciar, certifique-se de ter o **Node.js (versão 18 ou superior)** e 
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/SEU_USUARIO/siteApiPWEB.git
+git clone https://github.com/MuriloHCMatos/siteApiPWEB.git
 ```
 
 2. **Acesse o diretório do projeto:**
